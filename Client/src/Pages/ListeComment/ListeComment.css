@@ -1,0 +1,23 @@
+.Comment {
+    display: flex;
+   
+    
+  }
+  .Comment h6 {
+    margin-top: 11px ;
+    margin-right: 250px;
+  }
+  h4{
+    margin-left: 20px;
+  }
+  .Comment img {
+    border-radius: 50% !important;
+    overflow: hidden !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .deee button{
+    background-color: transparent !important;
+  border: transparent !important;
+  justify-content: center;
+  }

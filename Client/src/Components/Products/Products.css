@@ -1,0 +1,12 @@
+.text {
+  justify-content: center;
+  display: flex;
+}
+.cards {
+  display: flex;
+  
+
+}
+.gold {
+  color: rgb(228, 18, 18);
+}

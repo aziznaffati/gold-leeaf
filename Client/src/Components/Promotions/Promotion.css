@@ -1,0 +1,19 @@
+.card {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.text {
+  list-style: none;
+  color: #fc6d6d;
+  font-size: 60px;
+  font-weight: 500;
+  position: relative;
+  top: 0;
+  border-style: inset;
+  background-color: rgb(30, 32, 32);
+}
+.list {
+  margin-right: auto;
+}

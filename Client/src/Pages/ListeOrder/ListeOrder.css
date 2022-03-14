@@ -1,0 +1,7 @@
+.valide button {
+  background-color: transparent !important;
+  border: transparent !important;
+  justify-content: center;
+    margin: 4px 2px;
+    display: inline;
+  }

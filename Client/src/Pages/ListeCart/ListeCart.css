@@ -1,0 +1,20 @@
+.del button {
+    background-color: transparent;
+    border: transparent;
+ }
+ .del button :hover {
+   color: #dc3545  ;
+ }
+ .imgp img{
+  border-radius: 4px ;
+  justify-content: center;
+ }
+ .del {
+  background-color: transparent !important;
+  border: transparent !important;
+  justify-content: center;
+
+}
+td{
+margin-right: 30px
+;}

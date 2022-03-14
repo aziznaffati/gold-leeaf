@@ -1,0 +1,80 @@
+.link {
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Comic sans Ms", cursive, sans-serif;
+  font-style: normal;
+  color: hsl(0, 50%, 94%);
+  margin-left: 25px;
+  color:white
+}
+.link2 {
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Comic sans Ms", cursive, sans-serif;
+  font-style: normal;
+  color: hsl(0, 50%, 94%);
+  margin-left: 10px;
+}
+
+.link2:hover {
+  color: greenyellow;
+  text-decoration: none;
+}
+.logo {
+  border-radius: 50%;
+}
+.link:hover {
+  color: greenyellow;
+  text-decoration: none;
+}
+.navb {
+  background-color: rgb(23, 24, 23);
+}
+.lin {
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Comic sans Ms", cursive, sans-serif;
+  font-style: normal;
+  color: hsl(0, 6%, 85%);
+  margin-right: 50px;
+}
+.Profile img {
+  border-radius: 50% !important;
+  display: block !important;
+  margin-left: 20px !important;
+  overflow: hidden !important;
+  width: 38px !important;
+  height: 38px !important;
+}
+.icon {
+  background-color: transparent !important;
+  border: transparent !important;
+}
+.Profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.me-auto  {
+  align-items: center !important;
+}
+
+.btns {
+  background-color: transparent;
+  border: none;
+  outline: 0;
+  color: white;
+
+}
+
+.btns:hover {
+  background-color: transparent;
+  border: none;
+  outline: 0;
+  color: greenyellow;
+}
+
+.btn {
+  color: white !important;
+}

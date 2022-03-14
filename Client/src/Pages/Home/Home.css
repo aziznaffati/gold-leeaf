@@ -1,0 +1,23 @@
+h3 {
+  font-size: 40px;
+  font-family: "Comic sans Ms", cursive, sans-serif;
+  font-style: italic;
+  color: black;
+  text-align: center;
+}
+.prom img {
+  height: 600px;
+  width: 495px;
+}
+.prom .pro .pprom {
+  display: flex;
+  margin: 20px;
+}
+.pro img {
+  margin-top: 50px;
+  margin-left: 200px;
+}
+.pprom img {
+  margin-top: 50px;
+  margin-left: 40px;
+}

@@ -1,0 +1,55 @@
+.details img {
+margin-left: 100px !important;
+display: flex !important;
+border-radius: 6px;
+}
+.details{
+   margin-top: 10px;
+    display: flex;
+}
+.dett h2{
+    margin-right: 450px !important;
+}
+.de button {
+    background-color: #dc3545; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+    display: inline;
+    margin: 0px 0px 0px 500px;
+  }
+  .button-container .form-control{
+      max-width: 80px;
+      text-align: center;
+      display: inline-block;
+  }
+  .cart-qty-plus, .cart-qty-minus{
+      width: 38px;
+      height: 38px;
+      background-color: #fff;
+      border: 1px solid #ced4da;
+      border-radius: .25rem;
+  }
+  .cart-qty-plus:hover, .cart-qty-minus:hover{
+      background-color: #dc3545;
+      color:#fff;
+  }
+  .button-container{
+    display:flex;
+   
+}
+
+.btn2 {
+    color: red !important;
+} 
+
+.btn2:hover {
+    color: white !important;
+}
